@@ -1,6 +1,6 @@
 # Microsoft_Azure_50daysofUdacity
 
-### From July to October of 2020, I was accepted into the challenge phase of the Microsoft Azure Machine Learning Scholarship and was later awarded a full scholarship to complete the Machine Learning Engineer with Microsoft Azure.  This is a record of my coding/learning challenge during the phase 1 of the scholarship.  Below is a badge for the full scholarship, awarded October 13, 2020. 
+### Hi! This is LauraT. From July to October of 2020, I was accepted into the challenge phase of the Microsoft Azure Machine Learning Scholarship and was later awarded a full scholarship to complete the Machine Learning Engineer with Microsoft Azure.  This is a record of my coding/learning challenge during the phase 1 of the scholarship.  Below is a badge for the full scholarship, awarded on October 13, 2020. <br>
 
 ![Azure Scholarship](assets/Microsoft_Scholarship_LauraT.jpg)
 
